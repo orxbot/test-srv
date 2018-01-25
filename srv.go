@@ -6,5 +6,5 @@ import (
 )
 
 func Handler() {
-	fmt.Println(utils.Plus(1,1))
+	fmt.Println(utils.Plus(1, 1))
 }
