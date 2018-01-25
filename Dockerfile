@@ -1,5 +1,8 @@
 FROM golang:1.9
 
+#
+RUN go get github.com/axw/gocov/gocov
+
 ## Create a directory and Add Code
 RUN mkdir -p /go/src/gitlab.followme.com/liuxiaobin/test-srv
 WORKDIR /go/src/gitlab.followme.com/liuxiaobin/test-srv
