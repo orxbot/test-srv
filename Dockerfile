@@ -10,4 +10,3 @@ RUN go-wrapper download
 # RUN go-wrapper install
 RUN ./test_pkg.sh
 
-# EXPOSE 8300
