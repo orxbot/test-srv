@@ -1,0 +1,5 @@
+=== RUN   TestHandler
+2
+--- PASS: TestHandler (0.00s)
+PASS
+ok  	gitlab.followme.com/liuxiaobin/test-srv	0.010s

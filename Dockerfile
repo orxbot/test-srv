@@ -1,7 +1,7 @@
 FROM golang:1.9
 
 #
-RUN go get github.com/axw/gocov/gocov && go get -u gopkg.in/matm/v1/gocov-html
+RUN go get github.com/axw/gocov/gocov && go get -u gopkg.in/matm/v1/gocov-html && go get github.com/jstemmer/go-junit-report
 
 ## Create a directory and Add Code
 RUN mkdir -p /go/src/gitlab.followme.com/liuxiaobin/test-srv

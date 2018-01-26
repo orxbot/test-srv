@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="1" failures="0" time="0.007" name="gitlab.followme.com/liuxiaobin/test-srv">
+		<properties>
+			<property name="go.version" value="go1.9.2"></property>
+			<property name="coverage.statements.pct" value="66.7"></property>
+		</properties>
+		<testcase classname="test-srv" name="TestHandler" time="0.000"></testcase>
+	</testsuite>
+</testsuites>
