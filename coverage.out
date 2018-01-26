@@ -1,0 +1,4 @@
+mode: set
+gitlab.followme.com/liuxiaobin/test-srv/utils/utils.go:3.25,5.2 1 1
+gitlab.followme.com/liuxiaobin/test-srv/utils/utils.go:7.25,9.2 1 0
+gitlab.followme.com/liuxiaobin/test-srv/srv.go:8.16,10.2 1 1
